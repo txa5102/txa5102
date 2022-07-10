@@ -1,6 +1,6 @@
+Tableau Data- stored raw data for Tableau visualizations.
+Link to my Tableau Public Profile: https://public.tableau.com/app/profile/tori6223
 
+SQL Projects - any mySQL scripts I used for either visualizations or just to play with for fun.
 
-<!---
-txa5102/txa5102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Python Projects - Jupyter Notebooks with data exploration using Python's Pandas, Numpy, and Matplotlib libraries. 
